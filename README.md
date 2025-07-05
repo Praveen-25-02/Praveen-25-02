@@ -1,75 +1,87 @@
+![MasterHead](https://res.cloudinary.com/dyox9vtgi/image/upload/v1731153235/Bannergif-ezgif.com-crop_3_fhswl6.gif)
+
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Aspiring Backend Developer | Final-Year ECE Student | Java | Spring Boot | MERN Stack</h3>
+<h3 align="center">Final-Year ECE Student | Java Backend Developer | MERN Stack Explorer</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Final-year undergraduate in **Electronics and Communication Engineering**
-- 🔭 Currently building a **Takeaway Food Delivery Website** using **React.js and MERN stack**
-- 🌱 Improving my backend development skills with **Spring Boot**, **Hibernate**, and **Docker**
-- 💻 Practicing **Data Structures and Algorithms** on **LeetCode**, **CodeChef**, and **HackerRank**
-- ⚡ Worked on **Microcontrollers, Sensors**, and used **MIT App Inventor** for embedded projects
-- 📚 Exploring **JUnit 5**, **Mockito**, and **Java Design Patterns**
-- 📫 Reach me at: **praveen.dev.contact@gmail.com**
-
----
-
-### 🚀 Tech Stack
-
-#### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-#### 🧰 Tools, Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-25-02&show_icons=true&theme=github_dark" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-25-02&layout=compact&theme=github_dark" alt="top langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-25-02&theme=github-dark-blue" alt="streak" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Spring+Boot+Backend+Developer;MERN+Stack+Explorer;Java+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 Long-Term Goals
+- 🎓 I’m pursuing my studies at **[Your College Name Here]**
 
-- 🔧 Become a **backend-focused full-stack developer**
-- 🧪 Contribute to real-world open-source projects
-- 🚀 Deploy production-grade Spring Boot and MERN applications
-- 🎓 Keep learning through teaching and sharing
+- 🔭 Currently building a **Takeaway Food Delivery Website** using **MERN stack**
 
----
+- 🌱 Learning **Spring Boot**, **Hibernate**, **Docker**, and exploring **JUnit 5 + Mockito**
 
-### 📌 Pinned Projects
+- 👨‍💻 Experienced with **Microcontrollers and Sensors**, built apps using **MIT App Inventor**
 
-➡️ Customize your pinned projects from your profile → **"Customize your pins"**
+- 💬 Ask me about **Java**, **Spring Boot**, **SQL**, **React**, and **Backend APIs**
 
----
+- 📫 How to reach me: **praveen.dev.contact@gmail.com**
 
-### 🤝 Connect with Me
+- 📄 Check out my Resume: [Click Here](https://drive.google.com/) <!-- Replace with your actual link -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:praveen.dev.contact@gmail.com)
+- ⚡ Fun fact: **I love turning complex problems into simple, elegant code!**
 
 ---
 
-⭐️ *Thanks for visiting!*  
-**From [`Praveen-25-02`](https://github.com/Praveen-25-02)**
+<h2 align="center">🛠️ Tech Toolkit</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,spring,hibernate,git,github,docker,maven,postgres,vscode,intellij" />
+</p>
+
+---
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<h1>👀 Profile Views <img src="https://komarev.com/ghpvc/?username=Praveen-25-02&color=blue" alt="Visitor Count" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;" /></h1>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-25-02&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-25-02&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
+</div>
+
+---
+
+<h2 align="center">🌟 Top Repositories</h2>
+<p align="center">
+  <a href="https://github.com/Praveen-25-02/TakeawayApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=TakeawayApp&theme=radical" />
+  </a>
+  <a href="https://github.com/Praveen-25-02/Java-DSA-Practice">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=Java-DSA-Practice&theme=radical" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌐 LeetCode Profile</h2>
+<a href="https://leetcode.com/u/Praveen2502/" style="display: center;">
+  <img src="https://leetcard.jacoblin.cool/Praveen2502?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" style="display: center;">
+</a>
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
+<p align="center">
+  <!-- LinkedIn Logo -->
+  <a href="https://www.linkedin.com/in/praveen-linkedin/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+
+  <!-- Gmail Logo -->
+  <a href="mailto:praveen.dev.contact@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="50" width="50" />
+  </a>
+
+  <!-- Personal Portfolio Logo -->
+  <a href="https://praveen-25-02.github.io/Portfolio/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="50" width="50" />
+  </a>
+</p>
+
+---
+
