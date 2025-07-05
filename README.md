@@ -4,30 +4,27 @@
 <h3 align="center">Final-Year ECE Student | Java Backend Developer | MERN Stack Explorer</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Spring+Boot+Backend+Developer;MERN+Stack+Explorer;Java+Programmer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Spring+Boot+Backend+Developer;Java+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 - 🎓 I’m pursuing my studies at **[Your College Name Here]**
 
-- 🔭 Currently building a **Takeaway Food Delivery Website** using **MERN stack**
-
 - 🌱 Learning **Spring Boot**, **Hibernate**, **Docker**, and exploring **JUnit 5 + Mockito**
 
 - 👨‍💻 Experienced with **Microcontrollers and Sensors**, built apps using **MIT App Inventor**
 
-- 💬 Ask me about **Java**, **Spring Boot**, **SQL**, **React**, and **Backend APIs**
+- 💬 Ask me about **Java**, **Spring Boot**, **SQL** and **React**
 
-- 📫 How to reach me: **praveen.dev.contact@gmail.com**
+- 📫 How to reach me: **mspraveen2525@gmail.com**
 
 - 📄 Check out my Resume: [Click Here](https://drive.google.com/) <!-- Replace with your actual link -->
 
-- ⚡ Fun fact: **I love turning complex problems into simple, elegant code!**
-
----
+- ⚡ Fun fact: **I love building Real world projects solving day-to-day problems**
 
 <h2 align="center">🛠️ Tech Toolkit</h2>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,spring,hibernate,git,github,docker,maven,postgres,vscode,intellij" />
