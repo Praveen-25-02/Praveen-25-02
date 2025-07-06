@@ -44,14 +44,16 @@
 ---
 
 <h2 align="center">🌟 Top Repositories</h2>
+
 <p align="center">
   <a href="https://github.com/Praveen-25-02/TakeAway">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=TakeawayApp&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=TakeAway&theme=radical" />
   </a>
   <a href="https://github.com/Praveen-25-02/DN-4.0---Java-Superset-ID-6377670-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=Java-DSA-Practice&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=DN-4.0---Java-Superset-ID-6377670-&theme=radical" />
   </a>
 </p>
+
 
 ---
 
