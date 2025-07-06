@@ -56,7 +56,7 @@
 ---
 
 <h2 align="center">🌐 LeetCode Profile</h2>
-<a href="https://leetcode.com/u/Praveen2502/" style="display: center;">
+<a href="[https://leetcode.com/u/Praveen2502/](https://leetcode.com/u/Praveen_MS_25/)" style="display: center;">
   <img src="https://leetcard.jacoblin.cool/Praveen2502?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" style="display: center;">
 </a>
 
