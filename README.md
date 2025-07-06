@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **mspraveen2525@gmail.com**
 
-- 📄 Check out my Resume: [Click Here]([https://drive.google.com/](https://drive.google.com/file/d/1lz3H3_oNn6j2zwt-efcnlFGrrgVzrIk3/view?usp=drive_link)) <!-- Replace with your actual link -->
+- 📄 Check out my Resume: [Resume]([https://drive.google.com/](https://drive.google.com/file/d/1lz3H3_oNn6j2zwt-efcnlFGrrgVzrIk3/view?usp=drive_link)) <!-- Replace with your actual link -->
 
 - ⚡ Fun fact: **I love building Real world projects solving day-to-day problems**
 
@@ -56,8 +56,8 @@
 ---
 
 <h2 align="center">🌐 LeetCode Profile</h2>
-<a href="[https://leetcode.com/u/Praveen2502/](https://leetcode.com/u/Praveen_MS_25/)" style="display: center;">
-  <img src="https://leetcard.jacoblin.cool/Praveen2502?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" style="display: center;">
+<a href="[https://leetcode.com/u/Praveen_MS_25/]" style="display: center;">
+  <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" style="display: center;">
 </a>
 
 ---
