@@ -9,17 +9,17 @@
 
 ---
 
-- 🎓 I’m pursuing my studies at **PSNA CET**
+- 🎓 I’m pursuing my studies at **PSNA College of Engineering and Technology**
 
-- 🌱 Learning **Spring Boot**, **Hibernate** and **System Design**
+- 🌱 Learning **Spring Boot**, **ReacvtJs** and **System Design**
 
 - 👨‍💻 Experienced with **Microcontrollers and Sensors**, built IOT projects using **MIT App Inventor**
 
-- 💬 Ask me about **Java**, **Spring Boot**, **SQL** and **React**
+- 💬 Ask me about **low code development** and **Java DSA**  
 
 - 📫 How to reach me: **mspraveen2525@gmail.com**
 
-- 📄 Check out my Resume: [Resume]([https://drive.google.com/](https://drive.google.com/file/d/1lz3H3_oNn6j2zwt-efcnlFGrrgVzrIk3/view?usp=drive_link)) <!-- Replace with your actual link -->
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link"> Resume </a> <!-- Replace with your actual link -->
 
 - ⚡ Fun fact: **I love building Real world projects solving day-to-day problems**
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,spring,hibernate,git,github,docker,maven,postgres,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,react,spring,git,github,vscode,intellij" />
 </p>
 
 ---
@@ -45,10 +45,10 @@
 
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
-  <a href="https://github.com/Praveen-25-02/TakeawayApp">
+  <a href="https://github.com/Praveen-25-02/TakeAway">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=TakeawayApp&theme=radical" />
   </a>
-  <a href="https://github.com/Praveen-25-02/Java-DSA-Practice">
+  <a href="https://github.com/Praveen-25-02/DN-4.0---Java-Superset-ID-6377670-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-25-02&repo=Java-DSA-Practice&theme=radical" />
   </a>
 </p>
