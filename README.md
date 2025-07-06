@@ -9,17 +9,17 @@
 
 ---
 
-- 🎓 I’m pursuing my studies at **[Your College Name Here]**
+- 🎓 I’m pursuing my studies at **PSNA CET**
 
-- 🌱 Learning **Spring Boot**, **Hibernate**, **Docker**, and exploring **JUnit 5 + Mockito**
+- 🌱 Learning **Spring Boot**, **Hibernate** and **System Design**
 
-- 👨‍💻 Experienced with **Microcontrollers and Sensors**, built apps using **MIT App Inventor**
+- 👨‍💻 Experienced with **Microcontrollers and Sensors**, built IOT projects using **MIT App Inventor**
 
 - 💬 Ask me about **Java**, **Spring Boot**, **SQL** and **React**
 
 - 📫 How to reach me: **mspraveen2525@gmail.com**
 
-- 📄 Check out my Resume: [Click Here](https://drive.google.com/) <!-- Replace with your actual link -->
+- 📄 Check out my Resume: [Click Here]([https://drive.google.com/](https://drive.google.com/file/d/1lz3H3_oNn6j2zwt-efcnlFGrrgVzrIk3/view?usp=drive_link)) <!-- Replace with your actual link -->
 
 - ⚡ Fun fact: **I love building Real world projects solving day-to-day problems**
 
